@@ -236,6 +236,7 @@
   margin-left: 20px;
   margin-right: 20px;
   font-family: trebuchet-ms;
+  font-size: 2.25rem;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -448,11 +449,12 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1327px;
+    min-height: 1220px;
   }
 
   .u-section-2 .u-group-1 {
     min-height: 196px;
+    margin-top: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -461,42 +463,55 @@
   .u-section-2 .u-text-1 {
     margin-left: 6px;
     margin-right: 6px;
+    font-size: 3rem;
   }
 
   .u-section-2 .u-layout-wrap-1 {
     width: 312px;
-    margin-top: 6px;
-    margin-bottom: 2px;
+    margin-top: 7px;
+    margin-bottom: 1px;
     margin-left: 14px;
   }
 
+  .u-section-2 .u-image-1 {
+    width: 326px;
+    height: 256px;
+    margin-top: 14px;
+    margin-right: -14px;
+    margin-left: 0;
+  }
+
   .u-section-2 .u-text-2 {
+    margin-top: 17px;
     margin-left: 0;
     margin-right: 0;
-    font-size: 1.5rem;
   }
 
   .u-section-2 .u-image-2 {
+    height: 262px;
     margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-2 .u-text-3 {
-    font-size: 1.5rem;
     width: auto;
-    margin-top: 8px;
-    margin-right: -6px;
-    margin-left: 6px;
+    margin-top: -23px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-image-3 {
-    margin-top: -84px;
-    margin-right: 14px;
+    width: 418px;
+    height: 343px;
+    margin-top: -116px;
+    margin-right: auto;
+    margin-left: -14px;
   }
 
   .u-section-2 .u-text-4 {
-    font-size: 1.5rem;
-    margin-top: 40px;
-    margin-right: -14px;
+    margin-top: -17px;
     margin-left: 14px;
   }
 } .u-section-3 {
@@ -566,6 +581,7 @@
 
   .u-section-3 .u-text-1 {
     position: relative;
+    font-family: trebuchet-ms;
     margin-left: 16px;
     margin-right: 16px;
   }
@@ -586,6 +602,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1679px;
+  }
+
   .u-section-3 .u-text-1 {
     margin-left: 6px;
     margin-right: 6px;
@@ -689,6 +709,16 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1030px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-4 .u-image-1 {
     min-height: 320px;
   }
@@ -788,6 +818,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-5 {
+    background-position: 45.58% 31.19%;
+  }
+
   .u-section-5 .u-group-1 {
     width: 340px;
   }
