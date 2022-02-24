@@ -35348,54 +35348,21 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 371px;
 }
 
-.u-header .u-menu-1 {
-  margin: 6px auto 0;
-}
-
-.u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: 0px;
-}
-
-.u-header .u-nav-2 {
-  font-size: 1.25rem;
-}
-
-.u-header .u-image-1 {
-  width: 64px;
-  height: 32px;
-  margin: -58px auto 0 0;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
-}
-
 .u-header .u-text-1 {
   font-family: Calligraffitti;
   font-size: 6rem;
   font-weight: 700;
   width: 896px;
-  margin: 74px auto 60px;
+  margin: 199px auto 60px;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
     min-height: 381px;
   }
 
-  .u-header .u-menu-1 {
-    margin-left: 20px;
-  }
-
-  .u-header .u-image-1 {
-    margin-top: 20px;
-    margin-left: 20px;
-  }
-
   .u-header .u-text-1 {
     width: auto;
-    margin-top: 67px;
+    margin-top: 209px;
     margin-left: 22px;
     margin-right: 22px;
   }
@@ -35405,36 +35372,22 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 434px;
   }
 
-  .u-header .u-menu-1 {
-    margin-left: 130px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: 210px;
-  }
-
   .u-header .u-text-1 {
-    margin-top: 106px;
+    margin-top: 248px;
     margin-left: -35px;
     margin-right: -35px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-sheet-1 {
-    min-height: 571px;
-  }
-
-  .u-header .u-menu-1 {
-    margin-left: 220px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: 220px;
+    min-height: 623px;
   }
 
   .u-header .u-text-1 {
-    margin-right: 0;
-    margin-left: 117px;
+    width: 423px;
+    margin-top: 243px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 @media (max-width: 575px) {
@@ -35442,18 +35395,12 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 883px;
   }
 
-  .u-header .u-menu-1 {
-    margin-left: 320px;
-  }
-
-  .u-header .u-image-1 {
-    margin-left: 400px;
-  }
-
   .u-header .u-text-1 {
     font-size: 1.875rem;
-    margin-top: 33px;
-    margin-left: 40px;
+    width: 340px;
+    margin-top: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 .u-footer .u-sheet-1 {
