@@ -5,46 +5,63 @@
   height: auto;
 }
 
-.u-block-e4ec-9 {
+.u-block-e4ec-3 {
   position: absolute;
-  left: 0;
-  width: 65px;
-  height: 65px;
-  top: 364px;
+  left: calc(((100% - 1140px) / 2)  + -26px);
+  width: 85px;
+  height: 85px;
+  top: 329px;
+  background-image: none;
   right: auto;
 }
 
-.u-block-e4ec-10 {
+.u-block-e4ec-4 {
   position: absolute;
-  width: 65px;
-  height: 65px;
+  width: 85px;
+  height: 85px;
   left: auto;
-  top: auto;
-  right: calc(((100% - 1140px) / 2)  + 375px);
-  bottom: -82px;
+  top: 328px;
+  background-image: none;
+  right: calc(((100% - 1140px) / 2)  + -25px);
 }
 
 @media (max-width: 1199px) {
-  .u-block-e4ec-10 {
-    right: calc(((100% - 940px) / 2)  + 275px);
+  .u-block-e4ec-3 {
+    left: calc(((100% - 940px) / 2)  + -22px);
+  }
+
+  .u-block-e4ec-4 {
+    right: calc(((100% - 940px) / 2)  + -21px);
   }
 }
 
 @media (max-width: 991px) {
-  .u-block-e4ec-10 {
-    right: calc(((100% - 720px) / 2)  + 165px);
+  .u-block-e4ec-3 {
+    left: calc(((100% - 720px) / 2)  + -17px);
+  }
+
+  .u-block-e4ec-4 {
+    right: calc(((100% - 720px) / 2)  + -16px);
   }
 }
 
 @media (max-width: 767px) {
-  .u-block-e4ec-10 {
-    right: calc(((100% - 540px) / 2)  + 75px);
+  .u-block-e4ec-3 {
+    left: calc(((100% - 540px) / 2)  + -13px);
+  }
+
+  .u-block-e4ec-4 {
+    right: calc(((100% - 540px) / 2)  + -12px);
   }
 }
 
 @media (max-width: 575px) {
-  .u-block-e4ec-10 {
-    right: calc(((100% - 340px) / 2)  + -25px);
+  .u-block-e4ec-3 {
+    left: calc(((100% - 340px) / 2)  + -8px);
+  }
+
+  .u-block-e4ec-4 {
+    right: calc(((100% - 340px) / 2)  + -8px);
   }
 }
 
@@ -84,10 +101,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1-1 .u-sheet-1 {
-    min-height: 350px;
-  }
-
   .u-section-1-1 .u-text-1 {
     font-size: 2.75rem;
     margin-left: 23px;
@@ -726,7 +739,6 @@
 .u-section-5 .u-group-1 {
   width: 762px;
   min-height: 314px;
-  height: auto;
   margin: 231px auto 49px;
 }
 
@@ -768,7 +780,6 @@
 
   .u-section-5 .u-group-1 {
     width: 628px;
-    height: auto;
   }
 
   .u-section-5 .u-text-1 {
